@@ -10,7 +10,7 @@ import { isEmpty } from 'lodash'
 import DOMPurify from 'dompurify'
 
 import styles from './Chat.module.css'
-import Contoso from '../../assets/Contoso.svg'
+import Contoso from '../../assets/AfricanIdeas_base.svg'
 import { XSSAllowTags } from '../../constants/xssAllowTags'
 
 import {
